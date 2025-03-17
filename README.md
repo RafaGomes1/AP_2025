@@ -13,7 +13,7 @@
 ```
 Project/
 │
-├── submission_1/
+├── Submissao1/
 │   ├── submissao1-grupo5-s1.csv
 │   ├── submissao1-grupo5-s1.ipynb
 │   ├── submissao1-grupo5-s2.csv
