@@ -8,3 +8,16 @@
 | pg56000 | Rafael João Ferreira Gomes |
 | pg55984 | Maurício Pereira |
 | pg57554 | João Alexandre Antunes da Costa Barroso |
+
+## Estrutura do Projeto
+[Descrição sucinta da estrutura de diretórios e ficheiros principais]
+Project/
+│
+├── submission_1/
+│   ├── submissao1-grupo5-s1.csv
+│   ├── submissao1-grupo5-s1.ipynb
+│   ├── submissao1-grupo5-s2.csv
+│   ├── submissao1-grupo5-s2.ipynb
+│
+├── README.md
+└── .gitignore
