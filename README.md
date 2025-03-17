@@ -18,6 +18,9 @@ Project/
 │   ├── submissao1-grupo5-s1.ipynb
 │   ├── submissao1-grupo5-s2.csv
 │   ├── submissao1-grupo5-s2.ipynb
+│   ├── data/
+│   │   ├── trained_lr_1000.npz
+│   │   └── 
 │
 ├── README.md
 └── .gitignore
