@@ -1,0 +1,2 @@
+Original Kaggle Dataset divided in 5 Chuncks.
+Original Kaggle Dataset link_download: https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text?resource=download

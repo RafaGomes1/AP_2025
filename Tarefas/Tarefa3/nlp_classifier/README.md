@@ -1,0 +1,1 @@
+# Modelo híbrido CNN + Bidirectional LSTM com embeddings GloVe pré-treinados, seguido de camadas Dense para classificação binária. Utiliza tokenização, padding, e regularização com dropout e batch normalization.

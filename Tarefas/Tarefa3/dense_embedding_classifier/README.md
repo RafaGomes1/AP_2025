@@ -1,0 +1,1 @@
+# Classificador binário Keras com Embedding, GlobalAvgPooling1D, LeakyReLU, Dropout, BatchNorm, EarlyStopping e tokenizer com OOV e padding fixo. Modularizado em múltiplos scripts.

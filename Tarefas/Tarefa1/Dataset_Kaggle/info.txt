@@ -1,0 +1,2 @@
+Dataset Zipado pois o Git nao aceita ficheiros superiores a 500MB.
+link_download: https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text?resource=download

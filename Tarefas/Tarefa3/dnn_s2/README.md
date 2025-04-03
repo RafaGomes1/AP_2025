@@ -1,0 +1,1 @@
+# Classificador binário em Keras com Embedding, GlobalAvgPooling1D, Dense+Dropout+BatchNorm, LeakyReLU, EarlyStopping e ModelCheckpoint. Tokenização com padding fixo e OOV.

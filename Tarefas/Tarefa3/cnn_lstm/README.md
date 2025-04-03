@@ -1,0 +1,1 @@
+# CNN + Bidirectional LSTM + DNN (feed-forward) com embeddings pré-treinados (GloVe).

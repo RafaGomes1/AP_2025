@@ -1,0 +1,2 @@
+AI_LABEL = "AI"
+HUMAN_LABEL = "Human"
