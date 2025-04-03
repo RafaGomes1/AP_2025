@@ -1,0 +1,22 @@
+brandao: 
+s1 62 s2 55
+
+edu: 
+dnn 66 rnn 58
+
+kard: 
+s1 80 MLP -> vamos adptar
+s2 63 
+
+nuno: 
+s1 73
+s2 73
+
+rui: 
+s1 40 s2 
+
+vale: 
+s1 44 s2 41
+
+
+
